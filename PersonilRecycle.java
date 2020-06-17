@@ -1,12 +1,10 @@
-package app.andropath.com.recyclerviewexample;
-
 public class Personil {
 
     private String nama;
     private String umur;
     private String lokasi;
 
-    public Mahasiswa(String nama, String umur, String lokasi) {
+    public Personil(String nama, String umur, String lokasi) {
         this.nama = nama;
         this.umur = umur;
         this.lokasi = lokasi;
