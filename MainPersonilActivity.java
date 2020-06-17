@@ -5,7 +5,7 @@ import android.support.v7.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-public class MainKeyboardActivity extends AppCompatActivity {
+public class MainPersonilActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;
     private PersonilAdapter adapter;
